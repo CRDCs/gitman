@@ -1,14 +1,13 @@
 
                                                                         
-
-> #GITMAN
+# GITMAN
                                               
 
-`
-Simply and Easy way to install your Github/Gitlab repositories.
 
-Gitman is a Golang tool created to make cloning repos easier.
+> Simply and Easy way to install your Github/Gitlab repositories.
 
-To use the tool you must have Golang installed.
+> Gitman is a Golang tool created to make cloning repos easier.
 
-Run the program and choose from a list of repos to download or a single repo
+> To use the tool you must have Golang installed.
+
+> Run the program and choose from a list of repos to download or a single repo
